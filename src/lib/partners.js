@@ -1,0 +1,30 @@
+import {
+  Signal,
+  Lightbulb,
+  Smartphone,
+  Globe,
+  Landmark,
+  Building2,
+  ShieldCheck,
+  Users,
+  CreditCard,
+  Wifi,
+  Sparkles,
+  Network,
+} from "lucide-react";
+
+export const partners = [
+  { name: "ISH-CONNECT", sector: "Connectivity & digital infrastructure", region: "Rwanda", icon: Signal },
+  { name: "ISHVEXA", sector: "Innovation & enterprise software", region: "Rwanda", icon: Lightbulb },
+  { name: "MTN Rwanda", sector: "Telecom & mobile money", region: "Rwanda", icon: Smartphone },
+  { name: "Airtel Africa", sector: "Telecom & connectivity", region: "Africa", icon: Wifi },
+  { name: "Bank of Kigali", sector: "Banking & fintech", region: "Rwanda", icon: Landmark },
+  { name: "Equity Bank", sector: "Banking & SME finance", region: "East Africa", icon: Building2 },
+  { name: "Irembo", sector: "Government digital services", region: "Rwanda", icon: ShieldCheck },
+  { name: "Andela", sector: "Engineering talent network", region: "Africa", icon: Users },
+  { name: "Flutterwave", sector: "Payments infrastructure", region: "Africa", icon: CreditCard },
+  { name: "Safaricom", sector: "Telecom & M-Pesa", region: "East Africa", icon: Smartphone },
+  { name: "Kigali Innovation City", sector: "Tech ecosystem & incubation", region: "Rwanda", icon: Sparkles },
+  { name: "Smart Africa", sector: "Pan-African digital alliance", region: "Africa", icon: Network },
+  { name: "Jumia", sector: "E-commerce & logistics", region: "Africa", icon: Globe },
+];
