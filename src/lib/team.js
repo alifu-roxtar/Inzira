@@ -34,19 +34,19 @@ export const team = [
     initials: "IS",
   },
   {
-    name: "Open seat — joining soon",
+    name: "SHEJA Alifu",
     role: "AI & Data Engineer",
     focus: "Artificial intelligence and automation",
     bio: "Will build the data pipelines, ML models and AI features that personalize routes, surface insights for SMEs, and power smart health and learning recommendations.",
     icon: Brain,
-    initials: "AI",
+    initials: "SA",
   },
   {
-    name: "Open seat — joining soon",
+    name: "MUZIRANENGE Annonciata",
     role: "Operations & Growth Lead",
     focus: "Branding, communications and outreach",
     bio: "Will own brand, community, content and go-to-market — connecting Inzira's products with citizens, partners and investors across Rwanda and Africa.",
     icon: Megaphone,
-    initials: "OG",
+    initials: "MA",
   },
 ];
